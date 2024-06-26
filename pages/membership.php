@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Membership</title>
-    <link rel="stylesheet" href="./pages/style/membership.css">
+    <link rel="stylesheet" href="./style/membership.css">
 </head>
 <body>
     <div class="container">
@@ -21,10 +21,10 @@
             </div>
             <div class="card classic">
                 <h2>Classic</h2>
-                <p class="price">Mulai dari <span>Rp 120000/Month</span></p>
+                <p class="price2">Mulai dari <span>Rp 120000/Month</span></p>
                 <p>Akses ke semua kelas, Jam terbatas setiap hari.</p>
-                <button class="learn-more">Learn More</button>
-                <button class="join-now">Join Now</button>
+                <button class="learn-more2">Learn More</button>
+                <button class="join-now2">Join Now</button>
             </div>
         </div>
     </div>
