@@ -18,6 +18,8 @@ body {
     display: flex;
     margin-bottom: -1em;
     position: absolute;
+    font-weight: bold;
+    letter-spacing: 0.4px;
 }
 
 .container #title {
@@ -42,6 +44,7 @@ body {
     background-color: #222;
 }
 
+
 .hero {
     display: flex;
     align-items: center;
@@ -63,8 +66,12 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #fff;
-    font-size: 2em;
+    color: #d7d7d7;
+    font-size: 5.5em;
+    letter-spacing: 1   px;
+    line-height: 150px;
+    word-spacing: 100px;
+    font-weight: bolder;
     text-align: center;
 }
 
@@ -73,11 +80,14 @@ body {
 }
 
 button {
+    margin-left: 900px;
+    position: absolute;
+    width: 120px;
     background-color: #007bff;
     color: #fff;
     border: none;
     padding: 0.8em 1.5em;
-    border-radius: 5px;
+    border-radius: 20px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
